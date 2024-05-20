@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nikita <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Russia</h3>   
+<h3 align="center">Computer Science student from Russia</h3>   
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
