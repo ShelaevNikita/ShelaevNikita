@@ -11,8 +11,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shelaevnikita&theme=onedark)](https://github.com/ShelaevNikita/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShelaevNikita)](https://git.io/streak-stats)   
-
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)   
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
